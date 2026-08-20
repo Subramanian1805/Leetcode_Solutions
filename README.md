@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -113,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
