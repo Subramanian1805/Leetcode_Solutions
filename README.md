@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -32,4 +34,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
