@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0560-subarray-sum-equals-k](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -85,9 +86,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
