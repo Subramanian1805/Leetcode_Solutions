@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
@@ -65,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 ## Sorting
 |  |
@@ -133,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
