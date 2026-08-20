@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
+| [0969-pancake-sorting](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0969-pancake-sorting) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0969-pancake-sorting](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0969-pancake-sorting) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0969-pancake-sorting](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0969-pancake-sorting) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0147-insertion-sort-list) |
 | [0268-missing-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [0969-pancake-sorting](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0969-pancake-sorting) |
 ## Design
 |  |
 | ------- |
