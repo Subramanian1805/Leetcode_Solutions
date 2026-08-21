@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [0969-pancake-sorting](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1051-height-checker) |
 ## Design
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -199,8 +204,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1051-height-checker) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
