@@ -9,7 +9,7 @@ class Solution(object):
         nums.sort()
         if n < 2:
             return 0
-        for i in range(0,n):
+        for i in range(1,n):
             max_gap = max(max_gap,nums[i] - nums[i-1])
         return max_gap
 
