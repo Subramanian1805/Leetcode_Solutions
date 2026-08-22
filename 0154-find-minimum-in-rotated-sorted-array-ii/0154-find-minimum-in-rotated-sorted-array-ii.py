@@ -4,4 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        return min(nums)
+        nums=sorted(nums)
+        for i in range(len(nums)):
+            return nums[i]
+            break
+        
