@@ -18,6 +18,9 @@ class Solution(object):
                     right = mid - 1
                 else:
                     left = mid + 1
+            elif nums[left] == nums[mid] and nums[right] == nums[mid]:
+                left += 1
+                right += 1
             else:
                 if nums[mid] < target <= nums[right]:
                     left = mid + 1
