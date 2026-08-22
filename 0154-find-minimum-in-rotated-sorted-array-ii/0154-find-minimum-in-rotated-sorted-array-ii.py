@@ -4,8 +4,17 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        nums=sorted(nums)
-        for i in range(len(nums)):
-            return nums[i]
-            break
-        
+        l, r = 0, len(nums) - 1
+
+        while l < r:
+            mid = (l + r) // 2
+
+            if nums[mid] > nums[r]:
+                l = mid + 1
+            elif nums[mid] < nums[r]:
+                r = mid
+            else:
+                # nums[mid] == nums[r]
+                r -= 1
+
+        return nums[l]
