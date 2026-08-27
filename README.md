@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
+| [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## String
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
+| [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
 ## Memoization
 |  |
 | ------- |
@@ -351,4 +356,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0258-add-digits) |
+## Rolling Hash
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
+## Hash Function
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
+## Suffix Tree
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
