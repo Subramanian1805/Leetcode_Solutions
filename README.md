@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0324-wiggle-sort-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0969-pancake-sorting](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0969-pancake-sorting) |
