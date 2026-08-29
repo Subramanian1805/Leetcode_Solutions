@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1920-build-array-from-permutation](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1920-build-array-from-permutation) |
 ## Rolling Hash
 |  |
 | ------- |
