@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -412,4 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0051-n-queens) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
