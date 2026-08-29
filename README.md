@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0231-power-of-two) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
