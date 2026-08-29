@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0093-restore-ip-addresses](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1668-maximum-repeating-substring) |
@@ -395,4 +397,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0093-restore-ip-addresses](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
