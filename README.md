@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
 | [1108-defanging-an-ip-address](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1392-longest-happy-prefix](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1392-longest-happy-prefix) |
 | [1668-maximum-repeating-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Dynamic Programming
 |  |
@@ -386,16 +387,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1392-longest-happy-prefix) |
 | [1668-maximum-repeating-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1392-longest-happy-prefix) |
 ## Suffix Array
 |  |
 | ------- |
@@ -422,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
+| [1392-longest-happy-prefix](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1392-longest-happy-prefix) |
 ## Suffix Automaton
 |  |
 | ------- |
