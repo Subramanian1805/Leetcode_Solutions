@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
