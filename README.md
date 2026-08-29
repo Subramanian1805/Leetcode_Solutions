@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
