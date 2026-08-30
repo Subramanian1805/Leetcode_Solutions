@@ -43,11 +43,3 @@ class Solution(object):
 
             first = temp1
             second = temp2
-
-
-    node4 = ListNode(4)
-    node3 = ListNode(3, node4)
-    node2 = ListNode(2, node3)
-    node1 = ListNode(1, node2)
-
-    head = node1
