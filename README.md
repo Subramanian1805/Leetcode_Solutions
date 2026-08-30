@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
 | [1108-defanging-an-ip-address](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1108-defanging-an-ip-address) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1392-longest-happy-prefix) |
 | [1668-maximum-repeating-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
