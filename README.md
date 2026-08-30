@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [0980-unique-paths-iii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0980-unique-paths-iii) |
 | [1051-height-checker](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
+| [0980-unique-paths-iii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0980-unique-paths-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0980-unique-paths-iii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0980-unique-paths-iii) |
 ## Quicksort
 |  |
 | ------- |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [0980-unique-paths-iii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Depth-First Search
 |  |
@@ -539,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0214-shortest-palindrome](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
