@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0344-reverse-string) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0187-repeated-dna-sequences](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0686-repeated-string-match) |
@@ -441,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0686-repeated-string-match) |
 | [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
 ## Memoization
@@ -455,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1392-longest-happy-prefix) |
@@ -465,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1392-longest-happy-prefix) |
