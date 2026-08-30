@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0779-k-th-symbol-in-grammar) |
 ## Divide and Conquer
