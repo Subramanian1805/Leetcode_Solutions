@@ -5,20 +5,27 @@ class Solution(object):
         :rtype: str
         """
         stack = []
-        remove = [False] * len(s)
+        remove = set()
 
-        for i, ch in enumerate(s):
-            if ch == '(':
+        for i in range(len(s)):
+
+            if s[i] == '(':
                 stack.append(i)
-            elif ch == ')':
+
+            elif s[i] == ')':
+
                 if stack:
                     stack.pop()
                 else:
-                    remove[i] = True
+                    remove.add(i)
 
         while stack:
-            remove[stack.pop()] = True
+            remove.add(stack.pop())
 
-        return ''.join(
-            ch for i, ch in enumerate(s)
-            if not remove[i])
+        result = []
+
+        for i in range(len(s)):
+            if i not in remove:
+                result.append(s[i])
+
+        return ''.join(result)
