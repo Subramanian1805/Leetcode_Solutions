@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Algorithm X
 |  |
@@ -606,12 +607,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
