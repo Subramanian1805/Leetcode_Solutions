@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0503-next-greater-element-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
