@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0200-number-of-islands) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
