@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1668-maximum-repeating-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1631-path-with-minimum-effort](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Algorithm X
@@ -667,12 +670,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1631-path-with-minimum-effort](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0207-course-schedule) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Coloring
 |  |
@@ -781,4 +786,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
