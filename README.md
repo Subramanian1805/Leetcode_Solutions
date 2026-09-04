@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 ## DP on Trees
 |  |
 | ------- |
