@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0980-unique-paths-iii) |
 | [1046-last-stone-weight](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1051-height-checker) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1122-relative-sort-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1408-string-matching-in-an-array) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0980-unique-paths-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Quicksort
 |  |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
