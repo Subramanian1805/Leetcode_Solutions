@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0091-decode-ways) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0152-maximum-product-subarray) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0200-number-of-islands) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -815,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
