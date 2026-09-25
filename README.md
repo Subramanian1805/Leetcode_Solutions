@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0416-partition-equal-subset-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0337-house-robber-iii) |
+| [0416-partition-equal-subset-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -990,4 +993,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
