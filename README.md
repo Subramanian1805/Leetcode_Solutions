@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Subramanian1805/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
